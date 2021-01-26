@@ -1,0 +1,13 @@
+192.168.1.10 pihole.kjbanner.internal
+192.168.1.31 tower.kjbanner.internal
+192.168.1.32 plex.kjbanner.internal
+192.168.1.33 hubitat.kjbanner.internal
+192.168.1.34 tautulli.kjbanner.internal
+192.168.1.35 grafana.kjbanner.internal
+192.168.1.36 dashmachine.kjbanner.internal
+192.168.1.37 heimdall.kjbanner.internal
+192.168.1.38 homeassistant.kjbanner.internal
+192.168.1.39 nodered.kjbanner.internal
+192.168.1.40 influxdb.kjbanner.internal
+192.168.1.41 prometheus.kjbanner.internal
+192.168.1.42 unifi-poller.kjbanner.internal
